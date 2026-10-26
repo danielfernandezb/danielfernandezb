@@ -55,7 +55,7 @@ I care about the whole path: understanding the business, building the solution, 
 | **Melissa Oficial** | Footwear store with full catalogue and checkout experience for Colombia | Shopify · Liquid · SEO | [melissaoficial.com.co](https://melissaoficial.com.co/) |
 | **Route Store CTG** | Retail online store: development and ongoing management | Shopify | [routestorectg.com](https://routestorectg.com/) |
 | **Sandalias Colombia** | Multi-brand e-commerce that groups the brand family | E-commerce · Web management | [sandaliascolombia.com.co](https://sandaliascolombia.com.co/) |
-| **Hyam Food** | Web application for a food brand | Angular · React | [hyamfood.com](https://hyamfood.com/) |
+| **Hyam Food** | Restaurant landing page with hero, menu and WhatsApp ordering · [source](https://github.com/danielfernandezb/hyam-web) | React · Vite · Tailwind | [hyamfood.com](https://hyamfood.com/) |
 | **Personal portfolio** | Dependency-free static site deployed on GitHub Pages | HTML · CSS · JS | [danielfernandezb.github.io](https://danielfernandezb.github.io/portafolio-daniel/) |
 
 **Landing pages:** [Ipanema](https://ipanema.com.co/) · [Azaleia](https://azaleia.com.co/) · [Rider](https://rider.com.co/) · [Zaxy](https://zaxy.com.co/)
