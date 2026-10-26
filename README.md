@@ -13,7 +13,7 @@ Cartagena, Colombia 🇨🇴 · Abierto a roles remotos o híbridos
 
 ## Sobre mí
 
-Ingeniero de sistemas enfocado en desarrollo web y comercio electrónico. Desde 2023 mantengo **cinco tiendas de e-commerce en producción**, administro servidores VPS y desarrollo interfaces con React y Angular.
+Ingeniero de sistemas enfocado en desarrollo web y comercio electrónico. Entre 2023 y 2026 mantuve **cinco tiendas de e-commerce en producción** en Inversiones Vía Tropical, administrando servidores VPS y construyendo interfaces con React y Angular.
 
 Me interesa el trabajo de punta a punta: entender el negocio, construir la solución, desplegarla y dejarla operando con métricas claras. No solo entrego código: entrego plataformas que aguantan tráfico real y equipos de marketing que pueden usarlas sin depender de mí.
 
@@ -62,7 +62,7 @@ Me interesa el trabajo de punta a punta: entender el negocio, construir la soluc
 
 ## Experiencia
 
-**Desarrollador web** · Inversiones Vía Tropical — *2023 a hoy*
+**Desarrollador web** · Inversiones Vía Tropical — *2023 a 2026*
 Mantenimiento de cinco tiendas de e-commerce, administración de VPS, bases de datos SQL y desarrollo con React y Angular.
 
 **Ingeniero de sistemas** · Establecimiento Público Ambiental — *2020 a 2022*

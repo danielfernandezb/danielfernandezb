@@ -13,7 +13,7 @@ Cartagena, Colombia 🇨🇴 · Open to remote or hybrid roles
 
 ## About me
 
-Systems engineer focused on web development and e-commerce. Since 2023 I have been maintaining **five e-commerce stores in production**, running VPS servers and building interfaces with React and Angular.
+Systems engineer focused on web development and e-commerce. From 2023 to 2026 I maintained **five e-commerce stores in production** at Inversiones Vía Tropical, running VPS servers and building interfaces with React and Angular.
 
 I care about the whole path: understanding the business, building the solution, shipping it, and keeping it running with clear metrics. I don't just deliver code — I deliver platforms that handle real traffic and marketing teams that can operate them without depending on me.
 
@@ -62,7 +62,7 @@ I care about the whole path: understanding the business, building the solution, 
 
 ## Experience
 
-**Web Developer** · Inversiones Vía Tropical — *2023 to present*
+**Web Developer** · Inversiones Vía Tropical — *2023 to 2026*
 Maintaining five e-commerce stores, administering VPS servers and SQL databases, and building with React and Angular.
 
 **Systems Engineer** · Establecimiento Público Ambiental — *2020 to 2022*
