@@ -55,7 +55,7 @@ Me interesa el trabajo de punta a punta: entender el negocio, construir la soluc
 | **Melissa Oficial** | Tienda de calzado con catálogo y experiencia de compra para Colombia | Shopify · Liquid · SEO | [melissaoficial.com.co](https://melissaoficial.com.co/) |
 | **Route Store CTG** | Tienda online de retail: desarrollo y gestión continua | Shopify | [routestorectg.com](https://routestorectg.com/) |
 | **Sandalias Colombia** | E-commerce multimarca que reúne las marcas del grupo | E-commerce · Gestión web | [sandaliascolombia.com.co](https://sandaliascolombia.com.co/) |
-| **Hyam Food** | Landing de restaurante con hero, menú y pedidos por WhatsApp · [código](https://github.com/danielfernandezb/hyam-web) | React · Vite · Tailwind | [hyamfood.com](https://hyamfood.com/) |
+| **Hyam Food** | Landing de restaurante con hero, menú y pedidos por WhatsApp · CI, 56 pruebas y monitoreo · [código](https://github.com/danielfernandezb/hyam-web) | React · Vite · Tailwind · Playwright | [hyamfood.com](https://hyamfood.com/) |
 | **Portafolio personal** | Sitio estático sin dependencias, desplegado en GitHub Pages | HTML · CSS · JS | [danielfernandezb.github.io](https://danielfernandezb.github.io/portafolio-daniel/) |
 
 **Landing pages:** [Ipanema](https://ipanema.com.co/) · [Azaleia](https://azaleia.com.co/) · [Rider](https://rider.com.co/) · [Zaxy](https://zaxy.com.co/)
