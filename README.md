@@ -70,6 +70,12 @@ Administración de plataformas, digitalización de datos, bases de datos y autom
 
 **Ingeniería de Sistemas** · Tecnológico Comfenalco, Cartagena — *2022*
 
+## Certificación
+
+**EF SET Certificate — C2 Proficient** · *octubre 2026*
+Puntaje EF SET **83/100**, con Reading C2 y Listening C2.
+[Verificar certificado](https://cert.efset.org/UTaQaA)
+
 ## Contacto
 
 ¿Tienes un proyecto de e-commerce, una aplicación web que mantener o un equipo al que sumar un perfil full stack? Escríbeme.
@@ -79,4 +85,4 @@ Administración de plataformas, digitalización de datos, bases de datos y autom
 - 🌐 **Portafolio:** [danielfernandezb.github.io/portafolio-daniel](https://danielfernandezb.github.io/portafolio-daniel/)
 - 📍 **Ubicación:** Cartagena, Colombia (UTC−5)
 
-<sub>Español nativo · Inglés intermedio (B1) · Disponibilidad para remoto o híbrido</sub>
+<sub>Español nativo · Inglés C2 certificado (EF SET 83/100) · Disponibilidad para remoto o híbrido</sub>

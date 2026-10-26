@@ -70,6 +70,12 @@ Platform administration, data digitalisation, databases and process automation.
 
 **BSc in Systems Engineering** · Tecnológico Comfenalco, Cartagena — *2022*
 
+## Certification
+
+**EF SET Certificate — C2 Proficient** · *October 2026*
+EF SET score **83/100**, with Reading C2 and Listening C2.
+[Verify certificate](https://cert.efset.org/UTaQaA)
+
 ## Contact
 
 Building an e-commerce project, need a web app maintained, or hiring a full stack profile?
@@ -79,4 +85,4 @@ Building an e-commerce project, need a web app maintained, or hiring a full stac
 - 🌐 **Portfolio:** [danielfernandezb.github.io/portafolio-daniel](https://danielfernandezb.github.io/portafolio-daniel/)
 - 📍 **Location:** Cartagena, Colombia (UTC−5)
 
-<sub>Native Spanish · Intermediate English (B1) · Available for remote or hybrid work</sub>
+<sub>Native Spanish · C2 certified English (EF SET 83/100) · Available for remote or hybrid work</sub>
