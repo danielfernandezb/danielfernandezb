@@ -1,88 +1,60 @@
 # Daniel Alberto Fernández Botero
 
-**Desarrollador Full Stack · Ingeniero de Sistemas**
-Cartagena, Colombia 🇨🇴 · Abierto a roles remotos o híbridos
+**Frontend / Full Stack Developer · React · TypeScript · E-commerce**
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-ver%20sitio-c9f27c?style=for-the-badge&labelColor=101a2b)](https://danielfernandezb.github.io/portafolio-daniel/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-4e79ff?style=for-the-badge&labelColor=101a2b)](https://www.linkedin.com/in/daniel-fern%C3%A1ndez-100552263/)
-[![Email](https://img.shields.io/badge/Email-escribirme-e6eaf2?style=for-the-badge&labelColor=101a2b)](mailto:danielfernandezb04@gmail.com)
+Cartagena, Colombia (UTC−5) · Available for remote work from Colombia or local roles in Cartagena.
 
-<sub>🇬🇧 [Read this profile in English](README.en.md)</sub>
+[Portfolio](https://danielfernandezb.github.io/portafolio-daniel/) · [LinkedIn](https://www.linkedin.com/in/daniel-fern%C3%A1ndez-100552263/) · [Email](mailto:danielfernandezb04@gmail.com)
 
----
+## About me
 
-## Sobre mí
+I build web solutions starting from a client's idea: interfaces, backend services, databases and integrations. My experience includes three years at Inversiones Vía Tropical (September 2023–September 2026), supporting e-commerce operations, maintaining websites and VPS infrastructure, and working with React and Angular.
 
-Ingeniero de sistemas enfocado en desarrollo web y comercio electrónico. Entre 2023 y 2026 mantuve **cinco tiendas de e-commerce en producción** en Inversiones Vía Tropical, administrando servidores VPS y construyendo interfaces con React y Angular.
+My focus is frontend/UI implementation and practical business workflows: product catalogs, collections, checkouts, REST integrations and website maintenance. I use Codex, Antigravity and OpenCode as development assistants; Hyam Food is an example of my AI-assisted web work.
 
-Me interesa el trabajo de punta a punta: entender el negocio, construir la solución, desplegarla y dejarla operando con métricas claras. No solo entrego código: entrego plataformas que aguantan tráfico real y equipos de marketing que pueden usarlas sin depender de mí.
+## Featured public work
 
-## Qué hago
+### HYAM Food — React restaurant interface
 
-- **E-commerce en Shopify** — desarrollo de temas, catálogo, integraciones y optimización de la experiencia de compra.
-- **Frontend** — aplicaciones y landings con React, Angular, HTML/CSS y JavaScript.
-- **Backend y datos** — APIs REST, consultas y modelado en SQL, automatización con Python y Java.
-- **Infraestructura** — administración de VPS, dominios, DNS, backups, monitoreo y hardening básico.
-- **Rendimiento y SEO** — Core Web Vitals, accesibilidad, metadatos y rastreo técnico.
+[Source code](https://github.com/danielfernandezb/hyam-web) · [Website](https://hyamfood.com/) · [CI workflow](https://github.com/danielfernandezb/hyam-web/actions/workflows/ci.yml)
 
-## Stack
+A commercial restaurant website with a visual hero, product/menu sections, gallery, mobile navigation and WhatsApp ordering. The public frontend uses **React, JavaScript/JSX, Vite and Tailwind CSS**, with Radix/shadcn components and Framer Motion.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=101a2b)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=101a2b)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Evidence for reviewers:** the repository includes setup instructions, Vitest unit tests, Playwright browser tests and GitHub Actions workflows. The documented UI checks cover navigation anchors, WhatsApp links, mobile layouts, horizontal overflow, image alternatives and page metadata. Review the source and workflow results for the current implementation and status.
 
-**Backend y datos**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-101a2b?style=flat-square&logo=fastapi&logoColor=c9f27c)
+**A concrete UI verification example:** open the landing page on desktop and mobile, navigate to the menu, verify product content and check that the order button points to the expected WhatsApp destination. Acceptance criteria should describe observable behavior rather than subjective appearance alone.
 
-**E-commerce, herramientas e infraestructura**
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=101a2b)
-![nginx](https://img.shields.io/badge/VPS%20%2F%20nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+### Personal portfolio — HTML, CSS and JavaScript
 
-## Proyectos en producción
+[Source code](https://github.com/danielfernandezb/portafolio-daniel) · [Website](https://danielfernandezb.github.io/portafolio-daniel/)
 
-| Proyecto | Descripción | Stack | En vivo |
-| --- | --- | --- | --- |
-| **Melissa Oficial** | Tienda de calzado con catálogo y experiencia de compra para Colombia | Shopify · Liquid · SEO | [melissaoficial.com.co](https://melissaoficial.com.co/) |
-| **Route Store CTG** | Tienda online de retail: desarrollo y gestión continua | Shopify | [routestorectg.com](https://routestorectg.com/) |
-| **Sandalias Colombia** | E-commerce multimarca que reúne las marcas del grupo | E-commerce · Gestión web | [sandaliascolombia.com.co](https://sandaliascolombia.com.co/) |
-| **Hyam Food** | Landing de restaurante con hero, menú y pedidos por WhatsApp · CI, 56 pruebas y monitoreo · [código](https://github.com/danielfernandezb/hyam-web) | React · Vite · Tailwind · Playwright | [hyamfood.com](https://hyamfood.com/) |
-| **Portafolio personal** | Sitio estático sin dependencias, desplegado en GitHub Pages | HTML · CSS · JS | [danielfernandezb.github.io](https://danielfernandezb.github.io/portafolio-daniel/) |
+A static portfolio published with GitHub Pages, presenting my web and e-commerce projects.
 
-**Landing pages:** [Ipanema](https://ipanema.com.co/) · [Azaleia](https://azaleia.com.co/) · [Rider](https://rider.com.co/) · [Zaxy](https://zaxy.com.co/)
+## Commercial web and e-commerce experience
 
-## Experiencia
+- **Melissa Oficial:** Shopify/Liquid theme customization and e-commerce work. [Website](https://melissaoficial.com.co/)
+- **Route Store CTG:** Shopify store management, product collections, theme customization and conversion tracking. [Website](https://routestorectg.com/)
+- **Sandalias Colombia:** website and e-commerce maintenance. [Website](https://sandaliascolombia.com.co/)
+- Brand websites supported include Ipanema, Rider, Azaleia and Zaxy; I have collaborated with a team in Brazil.
 
-**Desarrollador web** · Inversiones Vía Tropical — *2023 a 2026*
-Mantenimiento de cinco tiendas de e-commerce, administración de VPS, bases de datos SQL y desarrollo con React y Angular.
+These commercial examples describe my work on the sites; they are not presented as open-source repositories or as platforms I built entirely from scratch.
 
-**Ingeniero de sistemas** · Establecimiento Público Ambiental — *2020 a 2022*
-Administración de plataformas, digitalización de datos, bases de datos y automatización de procesos.
+## Technical background
 
-**Ingeniería de Sistemas** · Tecnológico Comfenalco, Cartagena — *2022*
+- **Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS.
+- **Backend and integrations:** Node.js, PHP, Java, REST APIs, SQL.
+- **E-commerce:** Shopify/Liquid, WordPress/WooCommerce, Elementor Pro.
+- **Delivery and infrastructure:** Git, GitHub Actions, Docker, VPS administration and AWS experience.
+- **Analytics:** GA4, Google Search Console, Google Tag Manager and Meta Pixel; Python and Power BI.
+- **AI-assisted development:** Codex, Antigravity and OpenCode.
 
-## Certificación
+## Education and languages
 
-**EF SET Certificate — C2 Proficient** · *octubre 2026*
-Puntaje EF SET **83/100**, con Reading C2 y Listening C2.
-[Verificar certificado](https://cert.efset.org/UTaQaA)
+- **Tecnólogo en Análisis y Desarrollo de Sistemas — SENA**, completed.
+- **Systems Engineering — in progress**, expected completion December 2026.
+- Spanish: native.
+- English: **EF SET C2 certificate (reading/listening)**. Conversational English: intermediate; written English: upper-intermediate. [Certificate](https://cert.efset.org/UTaQaA)
 
-## Contacto
+## Resumen en español
 
-¿Tienes un proyecto de e-commerce, una aplicación web que mantener o un equipo al que sumar un perfil full stack? Escríbeme.
-
-- 📬 **Email:** [danielfernandezb04@gmail.com](mailto:danielfernandezb04@gmail.com)
-- 💼 **LinkedIn:** [daniel-fernández-100552263](https://www.linkedin.com/in/daniel-fern%C3%A1ndez-100552263/)
-- 🌐 **Portafolio:** [danielfernandezb.github.io/portafolio-daniel](https://danielfernandezb.github.io/portafolio-daniel/)
-- 📍 **Ubicación:** Cartagena, Colombia (UTC−5)
-
-<sub>Español nativo · Inglés C2 certificado (EF SET 83/100) · Disponibilidad para remoto o híbrido</sub>
+Desarrollador web/full stack con tres años de experiencia en Vía Tropical. Desarrollo soluciones desde la idea del cliente y trabajo con interfaces, APIs, bases de datos y comercio electrónico. Soy tecnólogo del SENA y estudiante de Ingeniería de Sistemas, con finalización prevista en diciembre de 2026. Busco trabajo remoto desde Colombia o presencial/híbrido en Cartagena.
