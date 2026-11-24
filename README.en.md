@@ -1,57 +1,49 @@
 # Daniel Alberto Fernández Botero
+## Full Stack & E-commerce Developer
+**React · TypeScript · Node.js · Shopify / Liquid · WordPress / WooCommerce**
 
-**Frontend / Full Stack Developer · React · TypeScript · E-commerce**
+I turn business ideas into working websites, connecting interfaces, catalogs, integrations, databases and deployment. I developed Sandalias Colombia, Route Store, HYAM Food and SupremeShop from the business idea through implementation, using the appropriate platforms and tools.
 
-Cartagena, Colombia (UTC−5) · Available for remote work from Colombia or local roles in Cartagena.
+**Available for remote work from Colombia or local roles in Cartagena · UTC−5**
 
-[Portfolio](https://danielfernandezb.github.io/portafolio-daniel/) · [LinkedIn](https://www.linkedin.com/in/daniel-fern%C3%A1ndez-100552263/) · [Email](mailto:danielfernandezb04@gmail.com)
+[Portfolio](https://danielfernandezb.github.io/portafolio-daniel/) · [LinkedIn](https://www.linkedin.com/in/daniel-fern%C3%A1ndez-100552263/) · [Contact](mailto:danielfernandezb04@gmail.com)
 
-## About me
+## Selected projects
+| Project | Business purpose | What you can inspect |
+|---|---|---|
+| [Sandalias Colombia](https://sandaliascolombia.com.co/) | Multibrand footwear e-commerce | Categories, product variations, product pages and shopping cart; my developer credit appears on the website. |
+| [Route Store CTG](https://routestorectg.com/) | Cycling equipment storefront | Brand collections, product options, search and shopping flow. My work includes Shopify/Liquid customization and conversion tracking. |
+| [HYAM Food](https://hyamfood.com/) | Restaurant website | Menu sections, gallery and WhatsApp order links. [Public source code](https://github.com/danielfernandezb/hyam-web). |
+| [SupremeShop](https://paleturquoise-llama-938112.hostingersite.com/) | Sneaker catalog | Brand filters, search, sizes, prices and availability. Preview hosted on a Hostinger subdomain. |
 
-I build web solutions starting from a client's idea: interfaces, backend services, databases and integrations. My experience includes three years at Inversiones Vía Tropical (September 2023–September 2026), supporting e-commerce operations, maintaining websites and VPS infrastructure, and working with React and Angular.
+**My role:** end-to-end website development. Platform services, libraries and third-party tools remain credited to their authors. Commercial source code and private business data are not exposed.
 
-My focus is frontend/UI implementation and practical business workflows: product catalogs, collections, checkouts, REST integrations and website maintenance. I use Codex, Antigravity and OpenCode as development assistants; Hyam Food is an example of my AI-assisted web work.
+### Inspect the HYAM Food implementation
+[Source code](https://github.com/danielfernandezb/hyam-web) · [CI workflow](https://github.com/danielfernandezb/hyam-web/actions/workflows/ci.yml) · [Live website](https://hyamfood.com/)
 
-## Featured public work
+The public frontend uses React, JavaScript/JSX, Vite and Tailwind CSS, with Radix/shadcn components and Framer Motion. Its repository documents setup, Vitest tests, Playwright browser tests and GitHub Actions workflows. Review current source and workflow results for implementation details and test status. My broader TypeScript/Node.js experience is separate from this public frontend's JavaScript/JSX stack.
 
-### HYAM Food — React restaurant interface
+## Technical skills
+- **Frontend:** React, Angular, TypeScript, JavaScript, HTML and CSS.
+- **Backend and integrations:** Node.js, PHP, Java, REST APIs and SQL; experience with AWS microservices.
+- **E-commerce:** Shopify/Liquid, WordPress/WooCommerce, Elementor Pro, catalogs, collections, checkout configuration and payment integration troubleshooting.
+- **Infrastructure and delivery:** VPS administration, Linux, Git, GitHub Actions and Docker.
+- **Measurement and data:** GA4, Search Console, Google Tag Manager and Meta Pixel; SQL, Excel, Python and Power BI for analysis.
+- **AI-assisted development:** Codex, Antigravity and OpenCode to support implementation and problem-solving, including HYAM Food.
 
-[Source code](https://github.com/danielfernandezb/hyam-web) · [Website](https://hyamfood.com/) · [CI workflow](https://github.com/danielfernandezb/hyam-web/actions/workflows/ci.yml)
+## Professional experience
+**Web development & e-commerce — Inversiones Vía Tropical**  
+September 2023–September 2026 · Cartagena, Colombia
 
-A commercial restaurant website with a visual hero, product/menu sections, gallery, mobile navigation and WhatsApp ordering. The public frontend uses **React, JavaScript/JSX, Vite and Tailwind CSS**, with Radix/shadcn components and Framer Motion.
+Three years developing and maintaining web solutions, supporting e-commerce operations, administering VPS infrastructure and resolving technical issues. Brand work includes Ipanema, Rider, Azaleia and Zaxy, with collaboration involving a team in Brazil. Additional Shopify/Liquid work includes Melissa Oficial.
 
-**Evidence for reviewers:** the repository includes setup instructions, Vitest unit tests, Playwright browser tests and GitHub Actions workflows. The documented UI checks cover navigation anchors, WhatsApp links, mobile layouts, horizontal overflow, image alternatives and page metadata. Review the source and workflow results for the current implementation and status.
-
-**A concrete UI verification example:** open the landing page on desktop and mobile, navigate to the menu, verify product content and check that the order button points to the expected WhatsApp destination. Acceptance criteria should describe observable behavior rather than subjective appearance alone.
-
-### Personal portfolio — HTML, CSS and JavaScript
-
-[Source code](https://github.com/danielfernandezb/portafolio-daniel) · [Website](https://danielfernandezb.github.io/portafolio-daniel/)
-
-A static portfolio published with GitHub Pages, presenting my web and e-commerce projects.
-
-## Commercial web and e-commerce experience
-
-- **Melissa Oficial:** Shopify/Liquid theme customization and e-commerce work. [Website](https://melissaoficial.com.co/)
-- **Route Store CTG:** Shopify store management, product collections, theme customization and conversion tracking. [Website](https://routestorectg.com/)
-- **Sandalias Colombia:** website and e-commerce maintenance. [Website](https://sandaliascolombia.com.co/)
-- Brand websites supported include Ipanema, Rider, Azaleia and Zaxy; I have collaborated with a team in Brazil.
-
-These commercial examples describe my work on the sites; they are not presented as open-source repositories or as platforms I built entirely from scratch.
-
-## Technical background
-
-- **Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS.
-- **Backend and integrations:** Node.js, PHP, Java, REST APIs, SQL.
-- **E-commerce:** Shopify/Liquid, WordPress/WooCommerce, Elementor Pro.
-- **Delivery and infrastructure:** Git, GitHub Actions, Docker, VPS administration and AWS experience.
-- **Analytics:** GA4, Google Search Console, Google Tag Manager and Meta Pixel; Python and Power BI.
-- **AI-assisted development:** Codex, Antigravity and OpenCode.
+## Automation practice
+I have functional personal n8n workflows. One integrates WhatsApp with a virtual receptionist that responds to inquiries, schedules appointments and records data. This is practice-project experience, not a client deployment.
 
 ## Education and languages
+- **SENA:** Technologist in Systems Analysis and Development — completed.
+- **Systems Engineering:** in progress; expected completion December 2026.
+- **Spanish:** native.
+- **English:** [EF SET C2 certificate](https://cert.efset.org/UTaQaA) for reading/listening; intermediate spoken communication and upper-intermediate writing.
 
-- **Tecnólogo en Análisis y Desarrollo de Sistemas — SENA**, completed.
-- **Systems Engineering — in progress**, expected completion December 2026.
-- Spanish: native.
-- English: **EF SET C2 certificate (reading/listening)**. Conversational English: intermediate; written English: upper-intermediate. [Certificate](https://cert.efset.org/UTaQaA)
-
+**Looking for a developer who can turn a business idea into a working web solution?** [Get in touch](mailto:danielfernandezb04@gmail.com).
